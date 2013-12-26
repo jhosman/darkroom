@@ -10,4 +10,3 @@ More info about the darkroom:
 
 For more info about UnchARTed Studios and Gallery, see the [Facebook page](https://www.facebook.com/pages/UnchARTed/202386856448988)
 
-https://github.com/jhosman/darkroom/issues/14
